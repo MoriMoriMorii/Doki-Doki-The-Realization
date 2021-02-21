@@ -1,0 +1,7 @@
+How to play
+Heya! 
+If you're reading this, you must be wondering how you play the game right?
+Well, its pretty simple.
+1. Download and extract the .zip file using whatever means you need to take (Most will use their built in extractor like win zip)
+2. Copy the files from the folder into the ddlc game folder (Make sure to not delete pre existing files, as this will break the game and the installation of ddlc)
+3. Run ddlc and enjoy this short shitpost quality of a mod!
